@@ -7,7 +7,7 @@
 
 / {
 	compatible = "pangubox,ip04349", "mediatek,mt7621-soc";
-	model = "PanguBox IP04316";
+	model = "PanguBox IP043491";
 
 	aliases {
 		led-boot = &led_sys;
